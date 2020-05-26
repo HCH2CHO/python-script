@@ -7,6 +7,6 @@
 - rename.py	目标文件夹下文件后缀重命名
 - statistic.py	目标文件夹下代码行数统计
 - strip.py	去除换行符
-
 - txtchange.py	目标文件夹下文档合并
 wtf
+- mmd
