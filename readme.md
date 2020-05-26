@@ -9,3 +9,4 @@
 - strip.py	去除换行符
 
 - txtchange.py	目标文件夹下文档合并
+wtf
