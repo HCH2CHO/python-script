@@ -4,9 +4,6 @@
 - decode.py	编码
 - excel.py	调整文本列序
 - integral.py	积分计算
-- rename.py	目标文件夹下文件后缀重命名
-- statistic.py	目标文件夹下代码行数统计
-- strip.py	去除换行符
-
+- tmd
 - txtchange.py	目标文件夹下文档合并
 wtf
